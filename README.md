@@ -24,6 +24,7 @@ Nội dung bình luận
 Phân tích dữ liệu:
 
 Dữ liệu thu thập được được phân tích bằng cách sử dụng các công cụ và kỹ thuật phân tích dữ liệu thông dụng như:
+
 Thư viện: Pandas, Matplotlib
 Thống kê mô tả
 Phân tích dữ liệu định lượng
